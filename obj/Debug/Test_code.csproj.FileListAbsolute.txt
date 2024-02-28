@@ -1,0 +1,7 @@
+C:\Users\sanjanagu\source\repos\Test_code\bin\Debug\Test_code.exe.config
+C:\Users\sanjanagu\source\repos\Test_code\bin\Debug\Test_code.exe
+C:\Users\sanjanagu\source\repos\Test_code\bin\Debug\Test_code.pdb
+C:\Users\sanjanagu\source\repos\Test_code\obj\Debug\Test_code.csproj.AssemblyReference.cache
+C:\Users\sanjanagu\source\repos\Test_code\obj\Debug\Test_code.csproj.CoreCompileInputs.cache
+C:\Users\sanjanagu\source\repos\Test_code\obj\Debug\Test_code.exe
+C:\Users\sanjanagu\source\repos\Test_code\obj\Debug\Test_code.pdb
